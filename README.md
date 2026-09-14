@@ -130,5 +130,5 @@ I work **across the full stack** — from bare-metal C/C++ and Verilog HDL all t
 
 ---
 
-<h3 align="center"><i>"From transistors to neural networks — I speak both languages."</i> ⚡</h3>
+<h3 align="center"><i>"From transistors to neural networks — I speafk both languages."</i> ⚡</h3>
 
